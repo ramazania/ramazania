@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving my programming skills
-- 🌱 I’m currently learning algorithms and software design
+- 🔭 I’m currently seeking a summer internship to gain professional work experience
+- 🌱 I’m currently taking a class on Artificial Intelligence
 - 👯 I’m looking to collaborate on interesting python projects
-- 🤔 I’m looking for help with applying for internships
+- 🤔 I’m teaching middle school students python and scratch
 - 💬 Ask me about Afghanistan and its culture
 - 📫 How to reach me: ramazania@carleton.edu
 - 😄 Pronouns: he/him
